@@ -1,0 +1,19 @@
+.links {
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: fantasy;
+    font-size: 20px;
+    display: inline;
+}
+
+#myNavbar {
+    background-color: gray;
+}
+
+body {
+    background-color: skyblue;
+}
+
+#marqueeStyle {
+    background-color: gray;
+}
